@@ -1,0 +1,29 @@
+.flight {
+  margin: 20px 0;
+  padding: 0;
+}
+.flight-list {
+  padding:10px 20px;
+  list-style: none;
+  background-color: #33FFFC;
+  border-bottom: #f4f4f4 1px solid;
+  display: flex;
+}
+.flight-list:hover {
+  background-color: #1AFCF9;
+}
+.flight-time {
+  flex: 1;
+  text-align: right;
+}
+.airport-name {
+  flex: 1;
+}
+.buttons{
+  margin: 20px 10px;
+  text-align: right;
+}
+.buttons .btn{
+  background-color: #14DCF8;
+  margin-right: 10px;
+}

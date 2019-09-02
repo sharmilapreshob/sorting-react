@@ -1,0 +1,78 @@
+[
+  {
+    "segment_id": 13,
+    "type": "FLIGHT",
+    "origin": {
+    "type": "AIRPORT",
+    "value": "TXL"
+    },
+    "destination": {
+    "type": "AIRPORT",
+    "value": "MUC"
+    },
+    "departure": "15:20",
+    "detail": {
+    "boarding": 1523601000,
+    "flight_number": "LH2031",
+    "gate": "C12",
+    "seat": "12C"
+    }
+  },
+  {
+    "segment_id": 12,
+    "type": "FLIGHT",
+    "origin": {
+    "type": "AIRPORT",
+    "value": "TXL"
+    },
+    "destination": {
+    "type": "AIRPORT",
+    "value": "BLR"
+    },
+    "departure": "04:10",
+    "detail": {
+    "boarding": 1523601000,
+    "flight_number": "LH2031",
+    "gate": "C12",
+    "seat": "12C"
+    }
+  },
+  {
+    "segment_id": 14,
+    "type": "FLIGHT",
+    "origin": {
+    "type": "AIRPORT",
+    "value": "TXL"
+    },
+    "destination": {
+    "type": "AIRPORT",
+    "value": "DXB"
+    },
+    "departure": "22:20",
+    "detail": {
+    "boarding": 1523601000,
+    "flight_number": "LH2031",
+    "gate": "C12",
+    "seat": "12C"
+    }
+  },
+  {
+    "segment_id": 11,
+    "type": "FLIGHT",
+    "origin": {
+    "type": "AIRPORT",
+    "value": "TXL"
+    },
+    "destination": {
+    "type": "AIRPORT",
+    "value": "CNN"
+    },
+    "departure": "03:10",
+    "detail": {
+    "boarding": 1523601000,
+    "flight_number": "LH2031",
+    "gate": "C12",
+    "seat": "12C"
+    }
+  }
+]
