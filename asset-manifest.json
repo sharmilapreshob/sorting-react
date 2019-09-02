@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yilu/static/css/main.d8da9922.chunk.css",
+    "main.js": "/yilu/static/js/main.7525d0d0.chunk.js",
+    "main.js.map": "/yilu/static/js/main.7525d0d0.chunk.js.map",
+    "runtime~main.js": "/yilu/static/js/runtime~main.4d3b2cc9.js",
+    "runtime~main.js.map": "/yilu/static/js/runtime~main.4d3b2cc9.js.map",
+    "static/css/2.266e55a5.chunk.css": "/yilu/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d95151f7.chunk.js": "/yilu/static/js/2.d95151f7.chunk.js",
+    "static/js/2.d95151f7.chunk.js.map": "/yilu/static/js/2.d95151f7.chunk.js.map",
+    "index.html": "/yilu/index.html",
+    "precache-manifest.f1968a4befdf98b08d2ba4b36e320250.js": "/yilu/precache-manifest.f1968a4befdf98b08d2ba4b36e320250.js",
+    "service-worker.js": "/yilu/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/yilu/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.d8da9922.chunk.css.map": "/yilu/static/css/main.d8da9922.chunk.css.map"
+  }
+}
